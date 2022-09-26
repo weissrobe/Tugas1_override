@@ -1,0 +1,7 @@
+C:\Users\akbar\source\repos\C_override\C_override\bin\Debug\C_override.exe.config
+C:\Users\akbar\source\repos\C_override\C_override\bin\Debug\C_override.exe
+C:\Users\akbar\source\repos\C_override\C_override\bin\Debug\C_override.pdb
+C:\Users\akbar\source\repos\C_override\C_override\obj\Debug\C_override.csprojAssemblyReference.cache
+C:\Users\akbar\source\repos\C_override\C_override\obj\Debug\C_override.csproj.CoreCompileInputs.cache
+C:\Users\akbar\source\repos\C_override\C_override\obj\Debug\C_override.exe
+C:\Users\akbar\source\repos\C_override\C_override\obj\Debug\C_override.pdb
